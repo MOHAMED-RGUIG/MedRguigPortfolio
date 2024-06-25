@@ -1,0 +1,74 @@
+.container {
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+  }
+  
+  .links {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+  }
+  .link{
+    color: var(--color-one);
+}
+.link:hover{
+  color: var(--color-primary);
+}
+.navbar-toggler-icon{
+    color: var(--color-one);}
+
+    .customToggler {
+       
+        background-color:  var(--color-pr); /* Couleur de fond personnalisée */
+      }
+
+
+
+
+
+
+
+
+
+
+
+  /*
+  @media (max-width: 768px) {
+    .container {
+      height: 80px;
+      padding: 0 5px;
+      margin-top:30px;
+      flex-direction:row;
+    }
+  
+    .links {
+      flex-direction: row;
+      gap: 10px;
+      margin-top: 0px;
+    }
+  }
+  
+  @media (max-width: 576px) {
+    .container {
+      height: auto;
+      padding: 10px;
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  
+    .links {
+      width: 100%;
+      justify-content: space-between;
+      flex-wrap: wrap;
+    }
+  
+    .link {
+      flex: 1 0 auto;
+      text-align: center;
+      padding: 10px 0;
+    }
+  }
+   Responsive Adjustments */
