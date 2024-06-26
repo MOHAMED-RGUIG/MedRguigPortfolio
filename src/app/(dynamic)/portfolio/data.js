@@ -29,4 +29,12 @@ export const portfolios = [
         url:"https://mohamed-rguig.github.io/MappingTechnologies-rguig/"
     
     },
+     {
+        id : 5,
+        title:"Lavazza landing page'",
+        image:"https://i.postimg.cc/Tw1kLpn0/5.png",
+        description:"Tech: Html,Css,Bootstrap",
+        url:"https://mohamed-rguig.github.io/LavazzaLandingPage/"
+    
+    },
     ]
