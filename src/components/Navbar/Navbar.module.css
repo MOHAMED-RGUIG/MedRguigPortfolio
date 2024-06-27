@@ -5,7 +5,9 @@
     align-items: center;
 
   }
-  
+  .nav{
+      margin-top:0;
+  }
   .links {
     display: flex;
     gap: 10px;
