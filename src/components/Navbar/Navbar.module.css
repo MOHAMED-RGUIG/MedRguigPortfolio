@@ -5,17 +5,12 @@
     align-items: center;
 
   }
-.custom-navbar {
-  margin:0!important;
-padding:0 !important;
-}
-  .navbar{
-      margin:0 !important;
-padding:0 !important;
-  }
+
 .container-fluid {
-  margin:0 !important;
-padding:0 !important;
+  margin-top:0 !important;
+  margin-bottom:0 !important;
+padding-top:0 !important;
+ padding-bottom:0 !important;
 }
 
   .links {
