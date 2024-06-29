@@ -7,7 +7,7 @@ import DarkModeToggle from "../DarkModeToggle/DarkModeToggle";
 
 export default function Navbar(){
 return(
-
+<>
     <nav className="navbar navbar-expand-lg navbar">
     <div className="container-fluid">
       <Link href="/" className="navbar-brand">
@@ -49,7 +49,7 @@ return(
       
       </div>
     </div>
-  </nav>
+  </nav></>
   
 
  
