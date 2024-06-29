@@ -30,7 +30,7 @@ return (
     </div>
     <div className="row mt-4">
         {portfolios.map(portfolio => (
-            <div key={portfolio.id} className="col-md-6 col-lg-4 mb-4 shadow p-3 mb-5 bg-white rounded">
+            <div key={portfolio.id} className="col-md-6 col-lg-4 mb-4 shadow p-3 mb-5 rounded">
                 <Link href={portfolio.url} className={styles.post}>
                     <div className={styles.imageContainer}>
                         <Image
