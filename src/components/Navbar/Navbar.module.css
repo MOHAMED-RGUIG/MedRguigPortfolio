@@ -23,14 +23,12 @@
   .links {
     display: flex;
     gap: 10px;
-      padding-top: 0 !important;
-    height: 20px !important;
+   
     align-items: center;
   }
   .link{
     color: var(--color-one);
-    padding-top: 0 !important;
-    height: 20px !important;
+ 
 }
 .link:hover{
   color: var(--color-primary);
