@@ -6,20 +6,31 @@
 
   }
 
-.container-fluid {
-  margin-top:0 !important;
-  margin-bottom:0 !important;
-padding-top:0 !important;
- padding-bottom:0 !important;
-}
-
+ .navbar{
+    padding-top: 0px !important;
+    margin-top: 0;
+    height: 10px !important;
+    position: absolute;
+  }
+  .container-fluid{
+    padding-top: 0 !important;
+    height: 20px !important;}
+    .navbar-brand{
+      padding-top: 0 !important;
+      height: 20px !important;
+    }
+  
   .links {
     display: flex;
     gap: 10px;
+      padding-top: 0 !important;
+    height: 20px !important;
     align-items: center;
   }
   .link{
     color: var(--color-one);
+    padding-top: 0 !important;
+    height: 20px !important;
 }
 .link:hover{
   color: var(--color-primary);
