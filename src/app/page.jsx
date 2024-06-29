@@ -19,8 +19,8 @@ export default function Home() {
  
  <div className={`col-md-6 mb-5 ${styles.col}`}>
             <h1 className={styles.title}>Hi ! It's me MOHAMED RGUIG</h1>
-            <p className={styles.description}>I'am a React.js & Next.js
-             front-end web developer.<br></br>For more information, please get touch 
+            <p className={styles.description}>I'm a React.js & Next.js
+             front-end web developer.<br></br>For more information, please get in touch 
              with me.
            </p>
            <div className="row  mx-4 mb-2">
