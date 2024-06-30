@@ -1,6 +1,6 @@
 import Image from "next/image";
 import styles from "./page.module.css";
-import Hero from "/public/images/hero10.png";
+import Hero from "/public/images/hero.png";
 import Products from "./(dynamic)/portfolio/page";
 import Blog from "./(dynamic)/experience/page";
 import Contact from "./(static)/contact/page";
