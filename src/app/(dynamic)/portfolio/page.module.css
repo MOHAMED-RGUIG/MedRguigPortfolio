@@ -39,7 +39,7 @@
 }
 .title{
     font-weight: 700;
-    color:var(--color-primary) !important;
+    color:var(--color-tit) !important;
 }
 .text{
     font-size:16px;
