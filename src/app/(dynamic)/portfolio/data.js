@@ -1,7 +1,7 @@
 export const portfolios = [
     {   id: 1,
         title:"Lavazza Platform Web Mobile App",
-        image:"https://i.postimg.cc/9QRX9ZFD/Lavazza-platform.png",
+        image:"https://i.postimg.cc/YqJKJVMS/Lavazza-platform.png",
      
         description:"Login:'johnson@example.com',</br>password:'password'.</br>Tech: React & Redux & MSSQL & CVS & Node+Express",
         url:"https://lavazzaplatform14.vercel.app/"
