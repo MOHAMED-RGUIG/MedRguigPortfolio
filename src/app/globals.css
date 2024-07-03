@@ -44,7 +44,7 @@ a {
   color: #111;
   --color-pr: #ffffff;
   --color-2r: #111;
-  --color-tit:#111;
+
 }
 
 .dark {
@@ -52,7 +52,7 @@ a {
   color: #fff;
   --color-pr: #FF5757;
   --color-2r: #fff;
-  --color-tit:var(--color-primary);
+
 }
 
 .theme {
