@@ -39,9 +39,9 @@ export const portfolios = [
     },
     {
         id : 6,
-        title:"Lavazza Atelier form Web Mobile App(No BackEnd)(Encours de développement).</br>Entrer : DEM2406-0070313 comme N° de la </br> demande de service pour test",
+        title:"Lavazza Atelier form Web Mobile App",
         image:"https://i.postimg.cc/pT0YFfy9/Atelier-Form.png",
-        description:"React, JS , Redux",
+        description:"React, JS , Redux ,(No BackEnd)(Encours de développement).</br>Entrer : DEM2406-0070313 comme N° de la </br> demande de service pour test",
         url:"https://atleir-form3.vercel.app/"
     
     }
