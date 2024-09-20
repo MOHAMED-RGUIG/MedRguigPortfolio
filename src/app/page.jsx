@@ -9,7 +9,7 @@ import { ThemeContext } from "@/context/ThemeContext";
 
 export default function Home() {
   return (
-  <div className="container">
+  <div className="container mt-5 pt-5 pb-5 mb-5">
   <div className={`row ${styles.container}`}>
    
       
