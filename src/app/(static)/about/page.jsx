@@ -7,7 +7,7 @@ function about() {
   return (
 
 
-<div className="container">
+<div className="container mt-5 pt-5 mb-5 pb-5">
 <div className={`row ${styles.container}`}>
  
     
