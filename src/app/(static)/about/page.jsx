@@ -15,7 +15,7 @@ function about() {
           <Image className={styles.img} src={Hero} alt="MOHAMED RGUIG"/>
       </div>       
 
-<div className={`col-md-12 col-12 mb-5 shadow-lg p-3 mb-5 bg-body rounded ${styles.col}`}>
+<div className={`col-md-12 col-12 mb-5 shadow p-3 mb-5 bg-body rounded ${styles.col}`}>
 <h1>About</h1>
      Après avoir pris la licence en economie & gestion et travailler depuis un certain temps en recouvrement, et lorsqu'un
       jour j'ai entendu parlez de domaine de l'informatique et ses dimensions, j'avais
