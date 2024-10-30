@@ -1,16 +1,13 @@
 export const portfolios = [
-  {  
- id: 1,
+  {   id: 1,
         title:"Lavazza Gestion des commandes Web Mobile App",
         image:"https://i.postimg.cc/Fsq1B549/Capture.png",
-     
         description:"Login:'johnson@example.com',</br>password:'password'.</br>Tech: React & Redux & MSSQL & CVS & Node+Express",
         url:"https://topclass1.vercel.app/"
     },
     {   id: 2,
          title:"Lavazza Gestion des taches Web Mobile App",
         image:"https://i.postimg.cc/L52NDWWX/taches.png",
-     
         description:"Login:'johnson@example.com',</br>password:'password'.</br>Tech: React & VITE & MSSQL & Node+Express",
         url:"https://topclassgstc.app.genez.io/"
     
