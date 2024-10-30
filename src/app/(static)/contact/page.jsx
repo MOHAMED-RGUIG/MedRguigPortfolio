@@ -28,8 +28,8 @@ export default function Contact() {
   <div className={styles.container}>
    
     <form onSubmit={handleSubmit} className={styles.contactForm} >
-    <h1 className=`m-4 p-4 {styles.titre}`>Contact me</h1>
-      <div>
+    <h1 className={styles.titre}>Contact me</h1>
+      <div className='m-4 p-4'>
         <label htmlFor="fullname">Full Name:</label>
         <input
           type="text"
