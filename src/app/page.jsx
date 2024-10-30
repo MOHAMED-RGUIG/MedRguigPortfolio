@@ -19,10 +19,10 @@ export default function Home() {
         </div>       
  
  <div className={`col-md-6 mb-5 ${styles.col}`}>
-            <h1 className={styles.title}>Hi ! It's me MOHAMED RGUIG</h1>
-            <p className={styles.description}>I'm a React.js & Next.js
-             front-end web developer.<br></br>For more information, please get in touch 
-             with me.
+            <h1 className={styles.title}>Hi ! IT'S ME MOHAMED RGUIG</h1>
+            <p className={styles.description}>I'M A REACT.JS 
+            WEB DEVELOPER.<br></br>FOR MORE INFORMATION, PLEASE GET IN TOUCH 
+             WITH ME.
            </p>
            <div className="row  mx-4 mb-2">
              <button className={`text-white  ${styles.button} `} ><a className='text-white' href="/contact" >Get in touch</a></button>
