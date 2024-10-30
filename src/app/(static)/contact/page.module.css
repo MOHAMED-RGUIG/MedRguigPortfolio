@@ -2,7 +2,7 @@
 
 .contactForm {
     max-width: 400px;
-    margin: 0 auto;
+    margin: 5 auto;
     padding-top: 40px ;
 
   }
@@ -36,7 +36,7 @@
   }
   .titre{
   padding-top:20px;
-    margin: 0 auto;
+    margin: 5 auto;
     font-size: 700;
     text-align: center;
     align-items: center;
