@@ -1,5 +1,6 @@
 export const portfolios = [
-  {   id: 1,
+  {  
+ id: 1,
         title:"Lavazza Gestion des commandes Web Mobile App",
         image:"https://i.postimg.cc/Fsq1B549/Capture.png",
      
