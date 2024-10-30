@@ -29,7 +29,7 @@ export default function Contact() {
    
     <form onSubmit={handleSubmit} className={styles.contactForm} >
     <h1 className={styles.titre}>Contact me</h1>
-      <div className='m-4 p-4'>
+      <div >
         <label htmlFor="fullname">Full Name:</label>
         <input
           type="text"
