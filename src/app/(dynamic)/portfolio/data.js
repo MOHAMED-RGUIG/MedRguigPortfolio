@@ -33,5 +33,13 @@ export const portfolios = [
           description:"React, JS , Redux ,(No BackEnd)(Encours de développement).</br>Entrer : DEM2406-0070313 comme N° de la </br> demande de service pour test",
           url:"https://atleir-form3.vercel.app/"
       
+      },
+       {
+          id : 6,
+          title:"Lavazza landing page'",
+          image:"https://i.postimg.cc/Tw1kLpn0/5.png",
+          description:"Tech: Html,Css,Bootstrap",
+          url:"https://mohamed-rguig.github.io/LavazzaLandingPage/"
+      
       }
       ]
