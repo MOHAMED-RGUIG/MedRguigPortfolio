@@ -27,9 +27,8 @@ export default function Home() {
            <div className="row  mx-4 mb-2">
              <button className={`text-white  ${styles.button} `} ><a className='text-white' href="/contact" >Get in touch</a></button>
              <button className={`text-white   ${styles.button} `} ><a className='text-white' href="https://heyzine.com/flip-book/9e2f45702c.html" >Show CV</a></button>
-          </div>
-         
-                    <div>© 2024 MedCoding All right reserved.</div>
+          </div><div className="row  mx-4 mb-2">
+          <div>© 2024 MedCoding All right reserved.</div>
 
                     <div className={styles.social}>
                     {socia_media.map(media =><a key={media.id} href={media.link} target="_blank" rel="noopener noreferrer"><Image
@@ -41,7 +40,11 @@ export default function Home() {
                     alt={`MedCoding ${media.name} link`}
                     /></a>)
                     
-                    }</div>
+                    }
+
+                    </div> </div>
+
+                  
 </div>
     </div></div>
 );
