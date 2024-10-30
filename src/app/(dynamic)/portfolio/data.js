@@ -26,16 +26,8 @@ export const portfolios = [
           url:"https://mohamed-rguig.github.io/MappingTechnologies-rguig/"
       
       },
-       {
-          id : 5,
-          title:"Lavazza landing page'",
-          image:"https://i.postimg.cc/Tw1kLpn0/5.png",
-          description:"Tech: Html,Css,Bootstrap",
-          url:"https://mohamed-rguig.github.io/LavazzaLandingPage/"
-      
-      },
       {
-          id : 6,
+          id : 5,
           title:"Lavazza Atelier form Web Mobile App",
           image:"https://i.postimg.cc/cCBgVY8x/Atelier-Form1.png",
           description:"React, JS , Redux ,(No BackEnd)(Encours de développement).</br>Entrer : DEM2406-0070313 comme N° de la </br> demande de service pour test",
