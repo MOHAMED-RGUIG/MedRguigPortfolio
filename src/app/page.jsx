@@ -20,8 +20,8 @@ export default function Home() {
  
  <div className={`col-md-6 mb-5 ${styles.col}`}>
             <h1 className={styles.title}>Hi ! IT'S ME MOHAMED RGUIG</h1>
-            <p className={styles.description}>I'm a react.js 
-            web developer.<br></br>for more information, please get in touch with me.
+            <p className={styles.description}>I'm a React.js 
+            Web Developer.<br></br>For More Information, Please Get in Touch With Me.
            </p>
            <div className="row  mx-4 mb-2">
              <button className={`text-white  ${styles.button} `} ><a className='text-white' href="/contact" >Get in touch</a></button>
