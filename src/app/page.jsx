@@ -6,6 +6,7 @@ import Blog from "./(dynamic)/experience/page";
 import Contact from "./(static)/contact/page";
 import { useContext } from "react";
 import { ThemeContext } from "@/context/ThemeContext";
+import { socia_media } from "./data";
 
 export default function Home() {
   return (
