@@ -28,23 +28,7 @@ export default function Home() {
              <button className={`text-white  ${styles.button} `} ><a className='text-white' href="/contact" >Get in touch</a></button>
              <button className={`text-white   ${styles.button} `} ><a className='text-white' href="https://heyzine.com/flip-book/9e2f45702c.html" >Show CV</a></button>
           </div>
- <div className="row  mx-4 mb-2">
-           <div>© 2024 MedCoding All right reserved.</div>
-
-                    <div className={styles.social}>
-                    {socia_media.map(media =><a key={media.id} href={media.link} target="_blank" rel="noopener noreferrer"><Image
-                    key={media.id}
-                    src={`/images/${media.name}.png`}
-                    width={20}
-                    height={20}
-                    className={styles.icon}
-                    alt={`MedCoding ${media.name} link`}
-                    /></a>)
-                    
-                    }
-
-                    </div>
-          </div>
+ 
                   
 </div>
     </div></div>
