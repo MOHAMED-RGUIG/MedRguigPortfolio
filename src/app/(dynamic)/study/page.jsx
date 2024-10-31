@@ -4,7 +4,7 @@ import Link from "next/link";
 
 
 async function getData(){
-    const res = await fetch(`https://mohamed-rguig.github.io/study_api/db.json`)
+    const res = await fetch(`https://mohamed-rguig.github.io/study_api1/db.json`)
 if(!res.ok){
     throw new Error('Failed to fetch data')    
 }return res.json()
