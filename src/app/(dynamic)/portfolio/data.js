@@ -12,14 +12,21 @@ export const portfolios = [
           url:"https://topclassgstc.app.genez.io/"
       
       },
+
       {   id: 3,
+          title:"Gestion inventaire TopClass",
+          image:"https://i.postimg.cc/C5T9m5zq/Inventaire.png",
+          description:"React & Redux & Node & MSSQL",
+          url:"https://topinv.vercel.app/"
+      },
+      {   id: 4,
           title:"Poles handassa Web site",
           image:"https://i.postimg.cc/vZ2RzbFz/Capture1.png",
           description:"React & Redux & Node",
           url:"https://chak.vercel.app/"
       },
       {
-          id : 4,
+          id : 5,
           title:"Mapping-Tech Web Site",
           image:"https://i.postimg.cc/xCJFnB1m/4.png",
           description:"Tech: Html,Css,JS,Bootstrap",
@@ -27,7 +34,7 @@ export const portfolios = [
       
       },
       {
-          id : 5,
+          id : 6,
           title:"Lavazza Atelier form Web Mobile App",
           image:"https://i.postimg.cc/cCBgVY8x/Atelier-Form1.png",
           description:"React, JS , Redux ,(No BackEnd)(Encours de développement).</br>Entrer : DEM2406-0070313 comme N° de la </br> demande de service pour test",
@@ -35,7 +42,7 @@ export const portfolios = [
       
       },
        {
-          id : 6,
+          id : 7,
           title:"Lavazza landing page'",
           image:"https://i.postimg.cc/Tw1kLpn0/5.png",
           description:"Tech: Html,Css,Bootstrap",
