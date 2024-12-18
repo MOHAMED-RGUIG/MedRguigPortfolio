@@ -16,7 +16,7 @@ export const portfolios = [
       {   id: 3,
           title:"Gestion inventaire TopClass",
           image:"https://i.postimg.cc/C5T9m5zq/Inventaire.png",
-          description:"React & Redux & Node & MSSQL",
+          description:"Login:'sav.vending@topclass.ma',</br>password:'mypassword'.React & Redux & Node & MSSQL",
           url:"https://topinv.vercel.app/"
       },
       {   id: 4,
