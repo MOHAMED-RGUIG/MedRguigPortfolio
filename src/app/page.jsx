@@ -25,7 +25,7 @@ export default function Home() {
            </p>
            <div className="row  mx-4 mb-2">
              <button className={`text-white  ${styles.button} `} ><a className='text-white' href="/contact" >Get in touch</a></button>
-             <button className={`text-white   ${styles.button} `} ><a className='text-white' href="https://heyzine.com/flip-book/063fbf0b0f.html" >Show CV</a></button>
+             <button className={`text-white   ${styles.button} `} ><a className='text-white' href="https://heyzine.com/flip-book/8c73d981f2.html" >Show CV</a></button>
           </div>
  
                   
