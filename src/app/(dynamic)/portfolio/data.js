@@ -15,9 +15,9 @@ export const portfolios = [
 
       {   id: 3,
           title:"Gestion inventaire TopClass",
-          image:"https://i.postimg.cc/C5T9m5zq/Inventaire.png",
-          description:"Login:'sav.vending@topclass.ma',</br>password:'mypassword'.React & Redux & Node & MSSQL",
-          url:"https://topinv.vercel.app/"
+          image:"https://i.postimg.cc/cJw6SspB/inv.png",
+          description:"Login:'rguig',</br>password:'top0102'.React & Redux & Node & MSSQL",
+          url:"https://topinv3.vercel.app/"
       },
       {   id: 4,
           title:"Poles handassa Web site",
@@ -35,10 +35,10 @@ export const portfolios = [
       },
       {
           id : 6,
-          title:"Lavazza Atelier form Web Mobile App",
-          image:"https://i.postimg.cc/cCBgVY8x/Atelier-Form1.png",
-          description:"React, JS , Redux ,(No BackEnd)(Encours de développement).</br>Entrer : DEM2406-0070313 comme N° de la </br> demande de service pour test",
-          url:"https://atleir-form3.vercel.app/"
+          title:"Afiqua Gaz Gestion des mouvements",
+          image:"https://i.postimg.cc/52WZrbmV/mvm.png",
+          description:"Login:'rg@gmail.com',</br>password:'pass'.</br>Tech: React & Redux & MSSQL & Node+Express",
+          url:"https://afgmvm.vercel.app//"
       
       },
        {
