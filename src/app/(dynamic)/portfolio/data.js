@@ -35,7 +35,7 @@ export const portfolios = [
       },
       {
           id : 6,
-          title:"Afriqua Gaz Gestion des mouvements",
+          title:"Afriquia Gaz Gestion des mouvements",
           image:"https://i.postimg.cc/52WZrbmV/mvm.png",
           description:"Login:'rg@gmail.com',</br>password:'pass'.</br>Tech: React & Redux & MSSQL & Node+Express",
           url:"https://afgmvm.vercel.app//"
