@@ -35,7 +35,7 @@ export const portfolios = [
       },
       {
           id : 6,
-          title:"Afiqua Gaz Gestion des mouvements",
+          title:"Afriqua Gaz Gestion des mouvements",
           image:"https://i.postimg.cc/52WZrbmV/mvm.png",
           description:"Login:'rg@gmail.com',</br>password:'pass'.</br>Tech: React & Redux & MSSQL & Node+Express",
           url:"https://afgmvm.vercel.app//"
@@ -43,7 +43,7 @@ export const portfolios = [
       },
        {
           id : 7,
-          title:"Lavazza landing page'",
+          title:"Lavazza landing page",
           image:"https://i.postimg.cc/Tw1kLpn0/5.png",
           description:"Tech: Html,Css,Bootstrap",
           url:"https://mohamed-rguig.github.io/LavazzaLandingPage/"
